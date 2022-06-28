@@ -7,4 +7,4 @@ Simulation code, data, and results are provided in the files for BMDA versus com
 3.  Simulated Data: contains the simulated Weiss data
 4.  Simulation Results: contains the results of all methods for both the simulated data and the permuted simulated data. 
   - There is a warning message in these folders "Sorry, we had to truncate this directory to 1,000 files. 1,801 entries were omitted from the list."
-  - SOLUTION: If you want to see all the files, you need to clone the repository locally.
+  - SOLUTION: If you want to see all the files, you need to clone the repository locally. If that does not work, please email me at kevin.lutz@utdallas.edu and we can send you a link to a Dropbox containing all of the results. 
