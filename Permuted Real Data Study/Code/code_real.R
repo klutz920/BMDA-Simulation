@@ -9,9 +9,9 @@ library(phyloseq)
 library(ANCOMBC)
 
 # Load functions
-Rcpp::sourceCpp('code/core_zinb_x5.cpp') # Core function for implementing BMDA
-source('code/compare_other_method.R')
-source('code/functions.R')
+Rcpp::sourceCpp('Code/core_zinb_x5.cpp') # Core function for implementing BMDA
+source('Code/compare_other_method.R')
+source('Code/functions.R')
 
 # Input settings
 output_path <- paste0("result_nicole_real_status/");
